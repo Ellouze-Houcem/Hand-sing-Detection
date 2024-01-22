@@ -11,7 +11,7 @@ Le projet Hand Sign Detection est une application de détection et de classifica
 
 ## Instructions d'utilisation
 1. Étapes d'installation
-  * Clonez le dépôt depuis GitHub : git clone https://github.com/votre-utilisateur/hand-sign-detection.git
+  * Clonez le dépôt depuis GitHub : git clone https://github.com/Ellouze-Houcem/Hand-sing-Detection.git
   * Accédez au répertoire du projet : cd hand-sign-detection
   * Installez les dépendances : pip install -r requirements.txt
 3. Comment exécuter le code
