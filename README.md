@@ -2,6 +2,7 @@
 
 ## Description
 Le projet Hand Sign Detection est une application de détection et de classification des signes de la main utilisant Computer Vision. Il est spécifiquement conçu pour détecter les formes des mains dans le contexte de la Langue des Signes Américaine (ASL). L'objectif principal est de repérer les signes de l'alphabet américain (A, B, C, D) effectués avec les mains.
+
 ![image](image/ASL.jpg)
 
 ## Fonctionnalités
