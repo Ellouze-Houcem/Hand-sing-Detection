@@ -23,14 +23,14 @@ Le projet Hand Sign Detection est une application de détection et de classifica
      ```bash
           pip install -r requirements.txt
 2. Comment exécuter le code
-  * Lancez le script principal :
-     ```bash
-       python program.py
-   * Assurez-vous que votre caméra est activée et orientée vers vos mains.
+    * Lancez le script principal :
+       ```bash
+         python program.py
+     * Assurez-vous que votre caméra est activée et orientée vers vos mains.
 3. Structure du projet :
-  * Model/: Contient le modèle de classification et les fichiers associés.
-  * DataCollection: Ce fichier implémente une fonctionnalité de détection et de suivi des mains en temps réel à partir de la caméra par défaut. Il offre la possibilité à l'utilisateur d'enregistrer des images des mains détectées en appuyant sur la touche 's'.
-  * program.py: Script principal pour l'exécution du projet.
+    * Model/: Contient le modèle de classification et les fichiers associés.
+    * DataCollection: Ce fichier implémente une fonctionnalité de détection et de suivi des mains en temps réel à partir de la caméra par défaut. Il offre la possibilité à l'utilisateur d'enregistrer des images des mains détectées en appuyant sur la touche 's'.
+    * program.py: Script principal pour l'exécution du projet.
 
 ## Exemple
 ![image](image/A.png) ![image](image/B.png) ![image](image/C.png) ![image](image/D.png)
